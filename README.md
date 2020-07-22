@@ -16,3 +16,6 @@ flutter
 
 Enums
 https://www.youtube.com/watch?v=n-iCeKLTjVY
+
+Interacionalização
+https://pt.stackoverflow.com/questions/399390/flutter-alterar-internacionaliza%C3%A7%C3%A3o-de-nomes-de-datas
